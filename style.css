@@ -207,7 +207,15 @@ body {
     font-size: 18px;
   }
     
-    
+    /* footer */
+    footer {
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding: 5px;
+      font-size: 12px;
+      margin-top: 80px;
+    }
 
     
 
