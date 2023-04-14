@@ -90,8 +90,12 @@ body {
   }
   /* Fin del header */
 
-  #seccion1 {
+  #seccion1{
     position: relative;
+}
+#seccion2{
+  position: relative;
+  background: linear-gradient(194.01deg, #D9E8EF 9.6%, #EAF2F5 89.64%);
 }
   
   #seccion1 h1,#seccion2 h1,#seccion3 h1{
@@ -129,6 +133,7 @@ body {
     text-align: center;
     
   }
+  
 
   #nene{
     position: absolute;
@@ -143,15 +148,14 @@ body {
     z-index: 2;
   }
     
-  #seccion2{
-    background: linear-gradient(194.01deg, #D9E8EF 9.6%, #EAF2F5 89.64%);
-  }
+  
+    
   #edificio{
     position: absolute;
     max-width: 500px;
     width: 410px;
-    top: 505px;
-    right: 159px;
+    top:0px;
+    right: 0px;
     bottom: 22.73px;
     box-shadow: 48px 24px 48px rgba(24, 37, 56, 0.12);
     border-radius: 8px;
